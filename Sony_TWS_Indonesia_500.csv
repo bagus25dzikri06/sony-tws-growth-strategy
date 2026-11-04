@@ -1,0 +1,501 @@
+Respondent_ID,Age,Gender,Monthly_Income_IDR,Current_Brand,Sony_Awareness,Sony_Consideration,Price_Perception,Feature_Relevance,Perceived_Value,Purchase_Convenience,Purchase_Intention,Purchase_Barrier
+1,32,Female,6300000,Apple,0,1,3,4,4,2,3,Unaware of Sony TWS
+2,28,Female,7700000,Apple,0,0,3,2,1,3,3,Unaware of Sony TWS
+3,34,Male,15300000,Other,1,0,3,4,3,4,3,No need/low urgency
+4,40,Female,4100000,Anker/Soundcore,1,1,3,5,4,3,5,Feature mismatch
+5,27,Female,8900000,Xiaomi/Redmi,0,1,5,4,3,4,5,Unaware of Sony TWS
+6,27,Male,5400000,Xiaomi/Redmi,0,1,3,4,3,4,3,Unaware of Sony TWS
+7,40,Male,7100000,Xiaomi/Redmi,1,0,4,5,4,2,4,Availability/convenience
+8,34,Male,16100000,Anker/Soundcore,0,0,2,4,4,2,4,Unaware of Sony TWS
+9,26,Male,7900000,JBL,0,0,2,3,2,3,2,Unaware of Sony TWS
+10,33,Male,7200000,Samsung,1,1,3,4,3,3,5,Brand preference
+11,26,Male,2900000,Samsung,0,0,4,3,2,3,4,Unaware of Sony TWS
+12,26,Male,11400000,Apple,0,0,4,3,4,4,5,Unaware of Sony TWS
+13,31,Male,10600000,JBL,0,0,3,3,4,3,3,Unaware of Sony TWS
+14,18,Female,28600000,Anker/Soundcore,1,0,3,5,4,3,3,Brand preference
+15,18,Male,5700000,Samsung,0,0,2,3,4,2,2,Unaware of Sony TWS
+16,25,Female,8100000,Apple,1,1,4,5,2,2,4,Price/value
+17,22,Male,8200000,Apple,1,1,4,4,5,3,5,Price/value
+18,31,Female,19500000,Other,0,0,3,2,4,1,1,Unaware of Sony TWS
+19,23,Male,6600000,Xiaomi/Redmi,0,0,2,4,4,4,4,Unaware of Sony TWS
+20,19,Male,8400000,Anker/Soundcore,0,0,3,1,5,3,3,Unaware of Sony TWS
+21,39,Female,10400000,JBL,0,0,3,4,2,5,3,Unaware of Sony TWS
+22,27,Female,7900000,Xiaomi/Redmi,0,0,3,4,3,5,5,Unaware of Sony TWS
+23,29,Female,5200000,Samsung,1,0,5,3,3,3,4,Feature mismatch
+24,19,Male,7900000,Samsung,1,0,3,4,4,3,5,Price/value
+25,25,Male,14100000,JBL,1,0,3,5,2,4,3,Price/value
+26,30,Female,3600000,Anker/Soundcore,0,0,2,3,4,5,5,Unaware of Sony TWS
+27,21,Female,7600000,JBL,1,1,4,3,5,2,5,Brand preference
+28,32,Female,4400000,JBL,1,1,3,5,4,1,5,Price/value
+29,25,Female,15200000,Apple,1,0,3,5,3,3,2,Brand preference
+30,27,Male,2600000,Other,0,0,4,3,2,4,2,Unaware of Sony TWS
+31,25,Female,4900000,Anker/Soundcore,1,1,4,4,3,4,5,Feature mismatch
+32,42,Male,8900000,Xiaomi/Redmi,0,0,2,4,4,4,5,Unaware of Sony TWS
+33,29,Male,19400000,Other,0,0,2,3,4,2,4,Unaware of Sony TWS
+34,22,Male,6700000,JBL,0,1,4,3,3,1,2,Unaware of Sony TWS
+35,35,Male,4900000,JBL,1,0,2,5,3,4,4,No need/low urgency
+36,20,Male,23800000,Anker/Soundcore,1,0,4,5,2,2,1,Feature mismatch
+37,30,Male,2700000,Anker/Soundcore,0,1,1,4,2,1,4,Unaware of Sony TWS
+38,18,Female,2000000,JBL,0,0,4,3,5,3,4,Unaware of Sony TWS
+39,20,Male,9300000,Samsung,0,0,2,5,2,4,3,Unaware of Sony TWS
+40,30,Female,5100000,Xiaomi/Redmi,0,0,4,3,3,3,2,Unaware of Sony TWS
+41,34,Male,3600000,Other,0,0,3,3,4,3,5,Unaware of Sony TWS
+42,30,Male,11100000,Samsung,0,0,2,4,2,3,1,Unaware of Sony TWS
+43,28,Female,8200000,Xiaomi/Redmi,1,1,3,5,3,3,5,Price/value
+44,27,Male,4900000,Xiaomi/Redmi,0,1,3,4,4,2,4,Unaware of Sony TWS
+45,19,Male,3000000,Xiaomi/Redmi,0,0,3,4,3,2,2,Unaware of Sony TWS
+46,24,Male,12300000,JBL,0,0,4,4,5,3,5,Unaware of Sony TWS
+47,26,Male,10700000,Other,1,0,5,4,2,3,2,Brand preference
+48,36,Female,6600000,Samsung,1,0,2,4,4,3,5,Availability/convenience
+49,31,Male,23200000,Samsung,1,0,5,1,3,2,3,No need/low urgency
+50,18,Female,3500000,Samsung,0,1,3,3,4,3,5,Unaware of Sony TWS
+51,31,Male,2600000,Other,1,1,2,4,4,1,3,Feature mismatch
+52,26,Female,4500000,JBL,0,0,2,2,2,3,1,Unaware of Sony TWS
+53,24,Female,6800000,Xiaomi/Redmi,1,0,3,4,3,5,5,Feature mismatch
+54,33,Female,8200000,Anker/Soundcore,1,0,4,3,2,2,3,No need/low urgency
+55,36,Male,6000000,Other,1,0,3,5,4,3,2,Price/value
+56,36,Male,8800000,Anker/Soundcore,1,1,4,5,4,3,5,Brand preference
+57,23,Male,3100000,Other,1,0,2,3,4,4,4,Feature mismatch
+58,27,Female,17900000,Samsung,0,1,3,3,4,3,5,Unaware of Sony TWS
+59,31,Female,6600000,Anker/Soundcore,1,0,2,3,3,2,2,Price/value
+60,36,Female,14500000,Xiaomi/Redmi,0,0,3,3,3,1,1,Unaware of Sony TWS
+61,26,Male,8700000,Anker/Soundcore,0,0,4,3,2,3,3,Unaware of Sony TWS
+62,28,Female,9400000,Anker/Soundcore,0,0,3,3,2,5,1,Unaware of Sony TWS
+63,21,Female,10100000,Anker/Soundcore,0,0,1,2,4,3,1,Unaware of Sony TWS
+64,21,Male,9400000,JBL,0,0,3,4,4,3,1,Unaware of Sony TWS
+65,35,Male,10600000,Samsung,0,0,4,4,3,3,4,Unaware of Sony TWS
+66,38,Female,16600000,JBL,0,0,4,3,3,3,3,Unaware of Sony TWS
+67,28,Female,8000000,Other,1,0,4,4,3,2,3,Feature mismatch
+68,36,Female,11100000,Other,0,0,2,3,4,4,5,Unaware of Sony TWS
+69,32,Male,6600000,Apple,0,0,4,3,4,3,4,Unaware of Sony TWS
+70,24,Female,17800000,Samsung,1,1,4,4,5,3,5,Price/value
+71,32,Male,4500000,Samsung,0,0,1,3,2,2,1,Unaware of Sony TWS
+72,40,Male,22600000,Anker/Soundcore,1,0,3,4,3,4,4,Brand preference
+73,29,Male,6800000,Anker/Soundcore,1,0,3,3,3,4,1,No need/low urgency
+74,40,Female,2800000,Samsung,1,0,3,3,4,3,3,Price/value
+75,18,Female,7600000,Xiaomi/Redmi,1,0,3,3,3,4,3,Availability/convenience
+76,35,Female,4500000,Anker/Soundcore,0,0,3,3,2,3,3,Unaware of Sony TWS
+77,30,Male,12100000,Anker/Soundcore,1,0,3,3,4,2,3,Price/value
+78,27,Female,4600000,JBL,0,0,3,2,4,2,3,Unaware of Sony TWS
+79,30,Male,5200000,JBL,0,0,2,3,2,1,2,Unaware of Sony TWS
+80,18,Female,2000000,Xiaomi/Redmi,1,1,2,3,4,4,5,Feature mismatch
+81,27,Male,5200000,Xiaomi/Redmi,0,0,3,3,4,1,2,Unaware of Sony TWS
+82,31,Male,2000000,JBL,1,1,2,3,3,2,2,Price/value
+83,39,Male,2500000,JBL,1,0,4,3,3,1,3,No need/low urgency
+84,25,Male,11500000,Other,1,0,4,4,4,3,3,Availability/convenience
+85,23,Female,11700000,JBL,1,1,2,4,2,3,5,Brand preference
+86,25,Male,9200000,Anker/Soundcore,0,0,2,3,3,3,2,Unaware of Sony TWS
+87,35,Male,3700000,Samsung,0,0,4,2,1,2,1,Unaware of Sony TWS
+88,31,Female,6800000,Xiaomi/Redmi,1,0,2,3,4,2,2,Availability/convenience
+89,25,Male,7000000,Apple,0,0,3,3,1,3,2,Unaware of Sony TWS
+90,33,Female,3300000,Samsung,1,0,3,3,4,3,4,Brand preference
+91,30,Female,18600000,Anker/Soundcore,1,0,4,3,3,3,2,No need/low urgency
+92,36,Female,12400000,Other,1,1,3,2,3,2,5,Brand preference
+93,24,Male,6100000,Apple,0,0,2,3,2,3,1,Unaware of Sony TWS
+94,27,Female,7100000,Xiaomi/Redmi,0,1,4,3,3,4,4,Unaware of Sony TWS
+95,26,Female,8000000,Anker/Soundcore,0,1,5,4,4,4,5,Unaware of Sony TWS
+96,19,Male,2000000,Samsung,0,0,4,3,1,3,1,Unaware of Sony TWS
+97,31,Male,6000000,JBL,1,0,3,3,4,3,4,No need/low urgency
+98,31,Female,4500000,Anker/Soundcore,0,0,2,2,3,3,1,Unaware of Sony TWS
+99,29,Female,3700000,JBL,0,1,2,3,2,3,4,Unaware of Sony TWS
+100,27,Female,5800000,Samsung,0,0,3,3,2,3,1,Unaware of Sony TWS
+101,19,Female,22500000,Xiaomi/Redmi,1,0,3,4,5,3,5,Feature mismatch
+102,26,Female,10600000,Anker/Soundcore,1,0,4,2,2,3,4,Price/value
+103,27,Male,4800000,JBL,0,0,4,3,2,2,3,Unaware of Sony TWS
+104,23,Male,10200000,Apple,0,0,2,4,4,2,4,Unaware of Sony TWS
+105,28,Male,17400000,Anker/Soundcore,0,0,4,3,3,2,2,Unaware of Sony TWS
+106,32,Female,12800000,Apple,0,0,2,5,2,1,1,Unaware of Sony TWS
+107,42,Male,7300000,Anker/Soundcore,1,0,3,4,3,2,5,Feature mismatch
+108,30,Female,4600000,Samsung,1,0,3,3,2,3,1,Price/value
+109,31,Female,11000000,Other,0,0,5,3,4,2,2,Unaware of Sony TWS
+110,28,Female,9000000,Xiaomi/Redmi,0,0,5,2,4,3,4,Unaware of Sony TWS
+111,18,Male,12500000,Xiaomi/Redmi,1,0,4,3,4,3,3,Brand preference
+112,29,Female,10600000,Samsung,0,0,3,3,3,1,1,Unaware of Sony TWS
+113,29,Male,13800000,Xiaomi/Redmi,1,1,4,4,5,4,4,Feature mismatch
+114,45,Female,4900000,Other,0,0,4,3,3,4,3,Unaware of Sony TWS
+115,28,Male,16500000,Other,0,1,3,3,2,2,2,Unaware of Sony TWS
+116,31,Male,8000000,Xiaomi/Redmi,0,0,4,3,4,3,4,Unaware of Sony TWS
+117,29,Female,27000000,Xiaomi/Redmi,0,0,3,5,5,2,5,Unaware of Sony TWS
+118,21,Male,4500000,Anker/Soundcore,1,0,3,3,2,3,3,Brand preference
+119,37,Male,21600000,Other,0,1,4,5,3,2,4,Unaware of Sony TWS
+120,34,Female,8000000,JBL,0,0,3,4,3,1,2,Unaware of Sony TWS
+121,35,Female,4600000,Xiaomi/Redmi,0,0,4,4,3,3,4,Unaware of Sony TWS
+122,23,Female,5100000,Xiaomi/Redmi,0,0,2,4,2,3,4,Unaware of Sony TWS
+123,39,Female,5700000,JBL,0,0,2,4,4,3,4,Unaware of Sony TWS
+124,19,Female,9200000,Apple,0,0,2,2,5,2,2,Unaware of Sony TWS
+125,33,Male,9800000,JBL,1,0,3,3,3,3,2,Price/value
+126,44,Male,4800000,Xiaomi/Redmi,0,0,4,4,2,3,1,Unaware of Sony TWS
+127,22,Male,6900000,Anker/Soundcore,0,0,3,3,2,3,3,Unaware of Sony TWS
+128,25,Female,28200000,Apple,1,1,5,2,4,3,5,Price/value
+129,30,Female,21500000,JBL,0,0,3,3,4,2,4,Unaware of Sony TWS
+130,25,Male,9300000,Xiaomi/Redmi,1,1,3,5,4,4,5,Feature mismatch
+131,18,Male,7200000,JBL,0,0,2,4,3,2,4,Unaware of Sony TWS
+132,29,Female,7600000,Apple,1,1,3,3,3,4,4,No need/low urgency
+133,22,Male,10400000,JBL,1,0,4,4,2,4,5,Feature mismatch
+134,32,Female,3600000,JBL,1,0,4,3,4,4,4,Feature mismatch
+135,23,Male,5900000,JBL,1,0,3,2,4,3,2,Brand preference
+136,40,Female,2400000,JBL,0,1,3,2,2,2,3,Unaware of Sony TWS
+137,24,Male,9100000,JBL,1,1,2,5,5,4,5,Brand preference
+138,27,Female,10700000,Anker/Soundcore,0,0,3,3,3,2,3,Unaware of Sony TWS
+139,35,Female,5100000,Samsung,0,0,4,3,4,2,3,Unaware of Sony TWS
+140,20,Female,19500000,Anker/Soundcore,0,0,4,3,2,3,2,Unaware of Sony TWS
+141,31,Female,3200000,Xiaomi/Redmi,1,0,3,5,2,4,5,Price/value
+142,38,Female,2700000,Apple,0,0,3,5,3,3,5,Unaware of Sony TWS
+143,18,Female,8100000,Apple,1,0,3,5,4,2,5,Feature mismatch
+144,30,Male,13800000,Xiaomi/Redmi,1,0,2,3,5,3,4,Price/value
+145,31,Female,20900000,Anker/Soundcore,1,0,4,4,4,3,5,No need/low urgency
+146,34,Female,5200000,JBL,1,0,3,2,3,2,3,Price/value
+147,20,Male,14100000,Anker/Soundcore,0,0,4,5,2,4,4,Unaware of Sony TWS
+148,20,Female,6800000,Xiaomi/Redmi,0,0,2,2,4,2,2,Unaware of Sony TWS
+149,33,Female,6300000,Xiaomi/Redmi,0,0,1,3,2,5,2,Unaware of Sony TWS
+150,31,Female,12400000,Samsung,0,0,4,2,5,4,1,Unaware of Sony TWS
+151,31,Male,10700000,Xiaomi/Redmi,0,1,3,3,3,4,4,Unaware of Sony TWS
+152,31,Male,2500000,Xiaomi/Redmi,0,1,2,3,4,3,3,Unaware of Sony TWS
+153,24,Female,18300000,Apple,0,0,4,3,4,3,5,Unaware of Sony TWS
+154,31,Female,17200000,Samsung,1,0,3,3,3,2,3,Feature mismatch
+155,31,Male,4700000,JBL,1,0,4,3,3,3,2,Price/value
+156,24,Female,9100000,Anker/Soundcore,0,0,4,4,3,3,3,Unaware of Sony TWS
+157,42,Female,9700000,Other,1,0,4,3,4,4,3,Price/value
+158,32,Male,8300000,Other,0,0,2,3,3,2,3,Unaware of Sony TWS
+159,21,Female,4900000,JBL,0,0,4,4,3,3,4,Unaware of Sony TWS
+160,34,Male,4500000,Xiaomi/Redmi,1,1,3,3,3,3,5,Availability/convenience
+161,22,Male,6900000,JBL,0,0,3,3,3,2,1,Unaware of Sony TWS
+162,35,Male,15000000,Anker/Soundcore,0,0,3,3,1,4,2,Unaware of Sony TWS
+163,37,Female,10000000,Apple,1,1,1,5,4,2,3,Price/value
+164,23,Male,5500000,Xiaomi/Redmi,1,0,3,4,2,3,4,Price/value
+165,36,Male,11600000,Anker/Soundcore,1,0,2,3,2,3,3,Feature mismatch
+166,32,Male,2000000,Xiaomi/Redmi,1,0,2,4,2,2,3,Price/value
+167,35,Female,14800000,JBL,1,0,2,3,2,3,2,Price/value
+168,42,Female,2300000,JBL,0,0,4,4,2,3,3,Unaware of Sony TWS
+169,27,Male,5500000,Samsung,0,0,2,4,2,3,4,Unaware of Sony TWS
+170,24,Male,3400000,Xiaomi/Redmi,0,0,4,3,5,2,4,Unaware of Sony TWS
+171,23,Female,3000000,Xiaomi/Redmi,0,0,2,3,2,3,2,Unaware of Sony TWS
+172,23,Male,14900000,Apple,1,0,2,3,3,5,2,Availability/convenience
+173,28,Male,5200000,Apple,0,0,2,4,3,3,2,Unaware of Sony TWS
+174,31,Male,8800000,Anker/Soundcore,1,1,4,5,4,4,5,Availability/convenience
+175,31,Male,6800000,Samsung,1,0,3,3,3,2,4,No need/low urgency
+176,35,Male,9500000,Xiaomi/Redmi,1,0,2,4,2,3,2,Availability/convenience
+177,29,Male,7400000,Xiaomi/Redmi,0,0,3,1,4,2,2,Unaware of Sony TWS
+178,39,Male,3000000,Other,1,1,3,3,5,2,4,Brand preference
+179,27,Female,13400000,Samsung,0,0,4,3,2,2,1,Unaware of Sony TWS
+180,45,Male,5100000,Xiaomi/Redmi,1,0,4,3,2,4,3,Price/value
+181,33,Female,2500000,Other,0,0,3,2,3,4,1,Unaware of Sony TWS
+182,23,Female,5300000,Anker/Soundcore,1,1,2,3,2,3,5,Availability/convenience
+183,22,Male,18600000,Samsung,0,0,3,3,3,2,1,Unaware of Sony TWS
+184,32,Female,12200000,Anker/Soundcore,1,0,3,3,2,3,3,Availability/convenience
+185,27,Male,5600000,Xiaomi/Redmi,1,0,2,2,5,3,2,Availability/convenience
+186,34,Female,5600000,Xiaomi/Redmi,0,0,2,1,4,3,3,Unaware of Sony TWS
+187,32,Male,5700000,Samsung,0,0,3,3,3,1,3,Unaware of Sony TWS
+188,28,Male,27000000,Apple,1,0,3,4,4,2,4,Feature mismatch
+189,23,Male,9000000,Anker/Soundcore,0,0,3,1,4,3,1,Unaware of Sony TWS
+190,18,Female,9300000,Xiaomi/Redmi,1,1,2,3,3,4,4,Price/value
+191,26,Male,13700000,Xiaomi/Redmi,1,0,3,3,2,1,1,Availability/convenience
+192,35,Female,8200000,Anker/Soundcore,0,0,2,4,3,3,2,Unaware of Sony TWS
+193,30,Male,5900000,Anker/Soundcore,0,0,4,3,4,3,5,Unaware of Sony TWS
+194,20,Female,6200000,Samsung,0,0,4,4,3,4,5,Unaware of Sony TWS
+195,30,Male,6700000,JBL,1,0,1,4,2,4,3,Brand preference
+196,32,Female,6800000,Samsung,0,0,2,1,2,4,1,Unaware of Sony TWS
+197,23,Male,11200000,Anker/Soundcore,0,0,2,4,3,2,3,Unaware of Sony TWS
+198,30,Male,7200000,JBL,0,0,2,3,3,1,2,Unaware of Sony TWS
+199,29,Male,11300000,Other,1,0,3,4,5,3,2,No need/low urgency
+200,21,Male,6600000,Apple,1,0,2,5,2,4,4,Price/value
+201,32,Female,7400000,Apple,1,0,2,2,4,4,3,Price/value
+202,33,Male,2000000,Xiaomi/Redmi,0,0,2,5,4,4,5,Unaware of Sony TWS
+203,37,Female,12700000,Samsung,1,0,3,3,5,4,3,Price/value
+204,36,Male,8800000,Samsung,1,1,3,4,3,4,1,Availability/convenience
+205,19,Female,13400000,Other,1,1,3,3,4,3,5,Price/value
+206,22,Male,2000000,Samsung,1,1,3,3,4,3,5,Price/value
+207,33,Male,27200000,Samsung,0,0,3,3,3,5,1,Unaware of Sony TWS
+208,33,Female,6400000,Anker/Soundcore,0,0,3,4,3,2,1,Unaware of Sony TWS
+209,33,Male,14400000,Xiaomi/Redmi,1,1,5,2,4,5,5,No need/low urgency
+210,45,Male,3600000,Anker/Soundcore,0,0,4,4,1,3,2,Unaware of Sony TWS
+211,33,Female,10400000,Apple,1,0,2,3,4,4,5,Price/value
+212,37,Female,3500000,Xiaomi/Redmi,1,0,4,3,3,2,2,Availability/convenience
+213,36,Male,4700000,Apple,0,0,4,3,3,4,1,Unaware of Sony TWS
+214,34,Male,24300000,Apple,1,1,2,5,5,2,5,Feature mismatch
+215,27,Female,6200000,Other,0,0,4,3,2,2,2,Unaware of Sony TWS
+216,34,Male,8100000,Samsung,0,0,4,4,3,3,3,Unaware of Sony TWS
+217,24,Male,12300000,JBL,1,0,2,3,5,4,4,Availability/convenience
+218,27,Male,9700000,Xiaomi/Redmi,1,0,2,4,2,2,3,Brand preference
+219,26,Female,7700000,Xiaomi/Redmi,0,0,4,4,3,2,3,Unaware of Sony TWS
+220,30,Female,8900000,Other,0,0,3,5,3,3,2,Unaware of Sony TWS
+221,45,Male,33400000,Apple,1,0,4,3,4,3,5,No need/low urgency
+222,18,Male,6700000,JBL,1,0,3,4,3,4,1,No need/low urgency
+223,34,Male,8000000,Other,1,0,3,4,2,4,1,Price/value
+224,18,Female,13900000,JBL,0,0,2,4,3,3,4,Unaware of Sony TWS
+225,26,Male,14400000,Other,0,0,4,3,3,5,4,Unaware of Sony TWS
+226,37,Male,15100000,Apple,0,0,4,4,3,3,3,Unaware of Sony TWS
+227,29,Female,10600000,Xiaomi/Redmi,1,0,3,3,4,3,2,Price/value
+228,21,Male,3300000,Samsung,0,0,3,3,3,1,1,Unaware of Sony TWS
+229,24,Female,20200000,Anker/Soundcore,0,0,2,3,1,3,1,Unaware of Sony TWS
+230,34,Male,3300000,Other,1,1,3,4,4,3,3,Price/value
+231,24,Male,8500000,Samsung,0,0,4,3,3,4,2,Unaware of Sony TWS
+232,31,Male,4300000,JBL,1,0,3,4,4,4,5,Brand preference
+233,29,Female,6700000,Samsung,1,0,4,5,4,2,5,No need/low urgency
+234,24,Female,8700000,JBL,1,1,3,4,4,3,4,Feature mismatch
+235,44,Female,8600000,Xiaomi/Redmi,0,1,3,4,3,4,5,Unaware of Sony TWS
+236,33,Male,9200000,Other,0,0,2,3,4,4,1,Unaware of Sony TWS
+237,18,Female,20000000,JBL,1,1,3,3,4,4,5,Brand preference
+238,30,Male,9400000,Xiaomi/Redmi,1,0,3,4,3,4,3,Price/value
+239,24,Male,6000000,Apple,1,0,3,4,5,3,5,Availability/convenience
+240,35,Female,13100000,Samsung,0,0,3,5,4,3,4,Unaware of Sony TWS
+241,23,Male,15200000,Samsung,1,0,3,3,4,4,5,No need/low urgency
+242,28,Male,3200000,Samsung,1,0,4,3,2,2,1,Price/value
+243,33,Male,10300000,Anker/Soundcore,1,0,3,2,2,3,3,Feature mismatch
+244,35,Male,11000000,JBL,1,0,2,3,3,2,2,Price/value
+245,21,Male,5800000,JBL,1,0,5,4,4,4,5,Brand preference
+246,27,Female,17100000,Apple,1,0,4,3,3,4,3,Feature mismatch
+247,26,Male,6300000,Other,0,0,2,4,3,2,1,Unaware of Sony TWS
+248,24,Female,7600000,Anker/Soundcore,0,0,4,3,5,1,4,Unaware of Sony TWS
+249,41,Female,6300000,Apple,0,0,3,4,4,3,4,Unaware of Sony TWS
+250,32,Male,7100000,JBL,0,0,3,2,2,4,2,Unaware of Sony TWS
+251,20,Male,3400000,JBL,0,0,3,3,3,4,3,Unaware of Sony TWS
+252,35,Male,2700000,Apple,0,0,3,1,2,3,2,Unaware of Sony TWS
+253,44,Female,19700000,Xiaomi/Redmi,0,0,2,3,3,3,4,Unaware of Sony TWS
+254,36,Male,4000000,Xiaomi/Redmi,0,1,2,2,3,2,1,Unaware of Sony TWS
+255,18,Female,3700000,Samsung,1,0,2,5,3,4,5,Price/value
+256,26,Male,2000000,Other,1,0,2,4,2,2,1,Feature mismatch
+257,38,Female,4600000,Anker/Soundcore,0,1,3,4,3,5,5,Unaware of Sony TWS
+258,24,Male,3000000,JBL,1,0,2,5,3,4,5,Feature mismatch
+259,32,Male,20400000,Xiaomi/Redmi,0,0,4,2,1,2,1,Unaware of Sony TWS
+260,34,Female,13500000,Xiaomi/Redmi,0,1,4,5,5,2,5,Unaware of Sony TWS
+261,23,Female,4500000,JBL,0,0,2,4,4,3,3,Unaware of Sony TWS
+262,29,Male,30300000,JBL,0,1,3,3,3,3,2,Unaware of Sony TWS
+263,18,Female,13300000,Apple,1,1,4,4,3,4,5,Feature mismatch
+264,22,Male,5700000,Xiaomi/Redmi,1,0,3,3,2,3,2,Brand preference
+265,27,Female,2000000,Anker/Soundcore,0,0,3,3,4,2,2,Unaware of Sony TWS
+266,20,Female,31000000,Xiaomi/Redmi,0,0,4,3,5,5,5,Unaware of Sony TWS
+267,40,Male,2800000,Apple,0,0,3,3,3,3,4,Unaware of Sony TWS
+268,19,Male,2400000,Anker/Soundcore,0,0,2,2,4,4,3,Unaware of Sony TWS
+269,26,Male,13600000,Samsung,0,0,4,4,3,2,5,Unaware of Sony TWS
+270,30,Female,34200000,Samsung,0,1,4,3,2,3,4,Unaware of Sony TWS
+271,39,Female,17200000,Samsung,1,1,2,4,3,3,1,Price/value
+272,19,Male,10100000,Xiaomi/Redmi,1,0,3,3,3,1,2,Availability/convenience
+273,37,Male,10300000,Anker/Soundcore,0,0,4,2,3,5,2,Unaware of Sony TWS
+274,29,Female,12200000,Xiaomi/Redmi,1,0,3,4,3,4,4,Brand preference
+275,22,Female,11500000,Samsung,0,0,4,2,3,3,1,Unaware of Sony TWS
+276,32,Female,8400000,Other,0,0,5,3,3,2,5,Unaware of Sony TWS
+277,30,Male,7500000,Other,0,0,2,2,3,3,3,Unaware of Sony TWS
+278,25,Male,6700000,Other,1,0,2,5,2,3,3,Feature mismatch
+279,29,Male,4300000,Samsung,1,0,3,4,3,3,5,Price/value
+280,26,Female,5800000,Xiaomi/Redmi,1,0,4,4,2,3,5,Availability/convenience
+281,30,Male,2300000,Other,0,1,3,4,4,3,5,Unaware of Sony TWS
+282,34,Female,6600000,Anker/Soundcore,1,0,4,3,1,5,4,No need/low urgency
+283,40,Male,3700000,Apple,0,0,2,4,4,4,4,Unaware of Sony TWS
+284,20,Female,3400000,Apple,1,0,4,4,5,2,5,Price/value
+285,44,Female,7900000,Xiaomi/Redmi,0,0,2,3,3,4,2,Unaware of Sony TWS
+286,18,Female,17300000,Other,0,1,5,4,1,5,3,Unaware of Sony TWS
+287,28,Male,12700000,JBL,1,0,5,4,3,5,4,Feature mismatch
+288,33,Male,2500000,Xiaomi/Redmi,1,0,2,4,3,2,1,Price/value
+289,31,Male,3700000,Apple,0,0,3,2,2,3,1,Unaware of Sony TWS
+290,25,Female,12900000,JBL,1,0,4,3,3,1,1,Brand preference
+291,28,Female,3700000,Anker/Soundcore,0,0,3,3,4,4,4,Unaware of Sony TWS
+292,26,Female,6000000,Xiaomi/Redmi,1,1,3,4,4,3,5,Price/value
+293,25,Female,10000000,Anker/Soundcore,1,0,3,3,2,5,3,Feature mismatch
+294,35,Female,3700000,Other,1,0,1,5,2,2,2,Brand preference
+295,31,Male,7500000,Samsung,1,0,3,5,3,2,5,Brand preference
+296,24,Female,2900000,JBL,0,0,2,4,3,3,5,Unaware of Sony TWS
+297,35,Male,4700000,Xiaomi/Redmi,0,0,2,3,3,1,1,Unaware of Sony TWS
+298,31,Male,8600000,Anker/Soundcore,1,0,4,3,3,4,4,Feature mismatch
+299,35,Male,2500000,JBL,0,0,2,2,3,1,1,Unaware of Sony TWS
+300,33,Male,9300000,JBL,0,1,4,3,5,3,4,Unaware of Sony TWS
+301,23,Male,6900000,Anker/Soundcore,0,0,3,3,4,1,1,Unaware of Sony TWS
+302,25,Female,10000000,Xiaomi/Redmi,0,0,3,2,3,3,3,Unaware of Sony TWS
+303,34,Male,8100000,Other,1,0,4,4,3,5,4,Feature mismatch
+304,33,Female,17000000,JBL,0,0,3,3,3,3,4,Unaware of Sony TWS
+305,29,Male,7600000,Samsung,1,1,4,2,4,2,5,Brand preference
+306,30,Male,5300000,JBL,0,0,4,3,3,3,5,Unaware of Sony TWS
+307,38,Male,7600000,Anker/Soundcore,0,0,3,3,3,3,1,Unaware of Sony TWS
+308,25,Male,10000000,Xiaomi/Redmi,0,0,2,5,3,3,4,Unaware of Sony TWS
+309,33,Female,7200000,Anker/Soundcore,0,0,2,4,3,2,3,Unaware of Sony TWS
+310,28,Male,7200000,Other,0,0,2,2,2,4,1,Unaware of Sony TWS
+311,27,Female,4400000,Samsung,1,0,5,4,4,1,3,Price/value
+312,37,Male,4500000,Other,0,0,4,2,3,2,4,Unaware of Sony TWS
+313,35,Female,2800000,Samsung,1,0,2,4,4,3,4,Price/value
+314,35,Female,21800000,Samsung,0,1,2,3,2,4,4,Unaware of Sony TWS
+315,38,Female,3100000,Samsung,0,0,3,3,4,3,2,Unaware of Sony TWS
+316,29,Male,4500000,Other,1,1,3,5,2,2,2,No need/low urgency
+317,34,Male,4400000,JBL,0,0,3,2,4,2,2,Unaware of Sony TWS
+318,27,Male,12500000,Samsung,0,0,3,2,1,3,1,Unaware of Sony TWS
+319,31,Female,5800000,Xiaomi/Redmi,0,0,3,3,3,3,1,Unaware of Sony TWS
+320,28,Male,15800000,JBL,0,0,3,4,3,2,3,Unaware of Sony TWS
+321,30,Male,4500000,Apple,1,0,3,2,2,3,1,Price/value
+322,33,Female,8400000,Other,0,0,1,1,3,4,1,Unaware of Sony TWS
+323,23,Male,4100000,Anker/Soundcore,1,1,3,3,4,3,5,Brand preference
+324,44,Female,28200000,Xiaomi/Redmi,1,0,2,4,1,3,3,No need/low urgency
+325,22,Male,3200000,Other,0,0,3,4,3,5,3,Unaware of Sony TWS
+326,21,Male,8600000,Xiaomi/Redmi,1,0,5,3,1,2,1,Price/value
+327,37,Female,10600000,Other,0,0,4,3,2,1,1,Unaware of Sony TWS
+328,35,Male,9200000,JBL,1,1,3,5,5,4,5,Feature mismatch
+329,33,Female,6200000,JBL,0,0,4,2,3,2,3,Unaware of Sony TWS
+330,33,Male,6400000,Samsung,1,1,3,3,2,3,5,Brand preference
+331,29,Male,7200000,Other,0,0,3,3,3,2,2,Unaware of Sony TWS
+332,23,Female,6400000,Xiaomi/Redmi,0,0,3,4,5,3,3,Unaware of Sony TWS
+333,30,Female,13100000,Samsung,1,0,5,3,2,5,4,No need/low urgency
+334,24,Female,29500000,Apple,1,1,2,4,2,4,3,No need/low urgency
+335,36,Male,4900000,JBL,0,0,3,1,4,4,2,Unaware of Sony TWS
+336,28,Female,2900000,JBL,0,0,2,3,5,2,5,Unaware of Sony TWS
+337,23,Male,6600000,JBL,1,0,3,4,3,2,4,Brand preference
+338,27,Male,35000000,Other,1,0,2,3,2,1,2,Price/value
+339,32,Female,4200000,Apple,1,0,3,4,5,2,3,Brand preference
+340,25,Male,20300000,Anker/Soundcore,1,0,3,4,5,4,5,Feature mismatch
+341,23,Female,20800000,Samsung,1,1,4,3,4,4,5,Feature mismatch
+342,31,Male,4900000,Anker/Soundcore,1,0,4,4,3,3,3,Price/value
+343,31,Male,10100000,Anker/Soundcore,0,0,2,2,3,3,4,Unaware of Sony TWS
+344,25,Female,20200000,JBL,0,0,3,3,3,2,4,Unaware of Sony TWS
+345,26,Female,5500000,JBL,1,0,2,4,4,3,5,Price/value
+346,31,Female,6100000,Xiaomi/Redmi,1,0,2,4,5,4,5,Availability/convenience
+347,19,Female,4800000,Xiaomi/Redmi,0,0,3,3,4,1,3,Unaware of Sony TWS
+348,19,Female,3600000,Anker/Soundcore,0,0,3,3,2,3,4,Unaware of Sony TWS
+349,24,Female,4600000,Xiaomi/Redmi,1,0,5,4,5,4,5,Feature mismatch
+350,28,Female,3200000,Xiaomi/Redmi,0,0,3,2,3,3,2,Unaware of Sony TWS
+351,31,Male,7200000,Xiaomi/Redmi,0,1,2,4,4,4,4,Unaware of Sony TWS
+352,39,Male,4200000,Anker/Soundcore,0,0,2,3,4,5,4,Unaware of Sony TWS
+353,35,Male,8100000,Xiaomi/Redmi,0,0,4,4,2,3,1,Unaware of Sony TWS
+354,28,Female,2500000,Samsung,0,0,5,4,3,3,3,Unaware of Sony TWS
+355,29,Female,8700000,JBL,0,0,2,2,2,2,2,Unaware of Sony TWS
+356,22,Male,12000000,Anker/Soundcore,0,0,1,3,1,3,1,Unaware of Sony TWS
+357,29,Female,2000000,Apple,1,1,5,3,4,4,5,Price/value
+358,27,Female,8900000,Samsung,0,0,3,3,5,3,5,Unaware of Sony TWS
+359,31,Male,15500000,Samsung,1,0,2,5,2,2,2,Feature mismatch
+360,23,Female,3200000,Xiaomi/Redmi,1,1,3,3,3,3,5,Availability/convenience
+361,33,Female,20800000,Xiaomi/Redmi,0,0,1,3,3,4,2,Unaware of Sony TWS
+362,40,Male,9200000,Anker/Soundcore,1,1,3,4,3,4,5,Availability/convenience
+363,28,Female,4400000,JBL,0,0,3,2,3,4,4,Unaware of Sony TWS
+364,32,Male,6800000,JBL,1,0,4,3,2,3,1,Price/value
+365,34,Female,10100000,Xiaomi/Redmi,0,0,2,4,3,4,4,Unaware of Sony TWS
+366,26,Female,7400000,Anker/Soundcore,1,0,3,3,2,3,2,Price/value
+367,31,Female,9900000,Xiaomi/Redmi,1,1,2,3,1,2,2,Price/value
+368,29,Male,3800000,Other,0,0,3,3,4,3,2,Unaware of Sony TWS
+369,30,Female,7800000,JBL,0,0,2,2,4,2,5,Unaware of Sony TWS
+370,24,Female,2800000,Samsung,1,0,3,4,3,3,5,No need/low urgency
+371,29,Male,6500000,JBL,1,1,2,5,3,3,4,Brand preference
+372,32,Female,3900000,Xiaomi/Redmi,0,0,3,3,4,3,1,Unaware of Sony TWS
+373,39,Male,4300000,JBL,1,0,4,4,4,2,4,Feature mismatch
+374,36,Female,15600000,Apple,0,0,3,4,4,4,5,Unaware of Sony TWS
+375,44,Male,14200000,Samsung,1,1,3,2,3,4,4,Brand preference
+376,24,Male,10400000,Anker/Soundcore,0,0,2,5,4,2,5,Unaware of Sony TWS
+377,35,Male,3400000,Samsung,1,0,3,4,4,2,5,Feature mismatch
+378,30,Female,5700000,Anker/Soundcore,0,0,3,5,3,3,5,Unaware of Sony TWS
+379,44,Male,15400000,Samsung,0,0,5,3,2,3,3,Unaware of Sony TWS
+380,23,Female,7700000,JBL,0,1,2,5,3,3,2,Unaware of Sony TWS
+381,23,Male,31600000,JBL,0,0,4,4,2,3,2,Unaware of Sony TWS
+382,25,Male,9000000,Xiaomi/Redmi,0,0,4,4,3,1,4,Unaware of Sony TWS
+383,18,Female,7900000,Xiaomi/Redmi,0,0,3,3,2,3,2,Unaware of Sony TWS
+384,25,Female,5700000,Samsung,1,0,5,3,2,3,4,Availability/convenience
+385,24,Male,7600000,Apple,0,0,3,4,5,4,4,Unaware of Sony TWS
+386,30,Female,6300000,Xiaomi/Redmi,0,0,3,3,4,2,2,Unaware of Sony TWS
+387,31,Female,11100000,JBL,0,0,3,2,5,5,4,Unaware of Sony TWS
+388,42,Female,13000000,Other,0,0,4,2,2,1,2,Unaware of Sony TWS
+389,36,Male,4200000,Other,0,0,4,3,3,4,2,Unaware of Sony TWS
+390,25,Male,2900000,Anker/Soundcore,0,0,2,4,2,3,2,Unaware of Sony TWS
+391,23,Female,2100000,Anker/Soundcore,0,1,2,3,2,4,2,Unaware of Sony TWS
+392,32,Male,9700000,JBL,0,0,3,4,2,3,4,Unaware of Sony TWS
+393,20,Female,3400000,Samsung,0,0,2,2,4,4,3,Unaware of Sony TWS
+394,42,Female,2000000,Other,1,0,3,4,3,3,5,Feature mismatch
+395,37,Female,9000000,JBL,0,0,4,2,4,2,5,Unaware of Sony TWS
+396,26,Female,35000000,JBL,0,0,3,4,4,4,4,Unaware of Sony TWS
+397,18,Female,7000000,Apple,1,1,3,3,5,3,4,Price/value
+398,38,Male,12100000,Xiaomi/Redmi,0,0,3,4,2,3,1,Unaware of Sony TWS
+399,28,Female,7400000,Xiaomi/Redmi,1,1,4,3,4,4,3,Price/value
+400,38,Male,6600000,Other,0,0,1,4,4,2,1,Unaware of Sony TWS
+401,18,Male,12700000,JBL,1,0,3,4,2,4,5,Feature mismatch
+402,25,Female,5800000,Xiaomi/Redmi,1,1,3,4,4,3,5,No need/low urgency
+403,29,Female,8300000,Other,0,0,4,3,3,3,3,Unaware of Sony TWS
+404,29,Female,8600000,Apple,1,1,3,4,3,3,1,Price/value
+405,26,Female,4500000,Xiaomi/Redmi,0,0,1,3,2,2,1,Unaware of Sony TWS
+406,33,Male,13300000,Apple,0,1,4,4,3,2,5,Unaware of Sony TWS
+407,22,Male,6200000,Anker/Soundcore,1,0,2,5,5,4,5,Availability/convenience
+408,28,Female,4300000,Other,1,0,2,4,3,4,3,Availability/convenience
+409,30,Male,9900000,Xiaomi/Redmi,0,0,2,3,4,3,4,Unaware of Sony TWS
+410,33,Male,3900000,Anker/Soundcore,0,0,3,4,2,3,5,Unaware of Sony TWS
+411,34,Male,7100000,Xiaomi/Redmi,0,0,2,2,2,3,1,Unaware of Sony TWS
+412,21,Male,7000000,Other,0,0,1,4,4,4,4,Unaware of Sony TWS
+413,18,Male,14200000,Anker/Soundcore,1,0,4,4,2,3,3,Price/value
+414,38,Male,9500000,Anker/Soundcore,0,0,4,2,3,3,5,Unaware of Sony TWS
+415,31,Male,6900000,Apple,0,0,4,2,3,4,1,Unaware of Sony TWS
+416,24,Male,11900000,Other,0,0,2,3,3,2,3,Unaware of Sony TWS
+417,40,Female,17300000,Anker/Soundcore,0,0,3,3,3,4,3,Unaware of Sony TWS
+418,30,Male,10100000,Xiaomi/Redmi,0,0,3,2,3,2,3,Unaware of Sony TWS
+419,37,Male,7000000,Anker/Soundcore,1,1,4,4,4,5,5,Price/value
+420,29,Female,3000000,Xiaomi/Redmi,1,0,3,4,4,3,4,Price/value
+421,43,Male,3500000,Other,1,0,2,3,2,3,3,Brand preference
+422,41,Female,5700000,Apple,0,1,3,3,3,1,5,Unaware of Sony TWS
+423,27,Female,4700000,JBL,1,1,3,4,4,3,5,Price/value
+424,36,Male,6200000,JBL,1,0,4,5,4,2,3,Feature mismatch
+425,34,Male,7300000,Apple,1,0,4,3,2,3,2,Feature mismatch
+426,39,Female,9900000,Samsung,0,0,4,3,3,3,2,Unaware of Sony TWS
+427,22,Female,6700000,Apple,0,0,3,4,1,4,1,Unaware of Sony TWS
+428,34,Male,9600000,Xiaomi/Redmi,0,0,4,3,3,3,2,Unaware of Sony TWS
+429,36,Female,7300000,Xiaomi/Redmi,0,0,3,3,5,3,5,Unaware of Sony TWS
+430,18,Male,2000000,JBL,0,0,2,4,2,2,1,Unaware of Sony TWS
+431,21,Female,3800000,Xiaomi/Redmi,0,0,4,2,2,2,3,Unaware of Sony TWS
+432,18,Male,6400000,Xiaomi/Redmi,0,0,4,4,4,5,5,Unaware of Sony TWS
+433,27,Female,3200000,Anker/Soundcore,1,1,3,4,2,2,2,Brand preference
+434,34,Female,10300000,Apple,0,0,3,3,2,5,2,Unaware of Sony TWS
+435,40,Female,18900000,Other,0,0,3,3,3,3,5,Unaware of Sony TWS
+436,30,Male,15500000,Anker/Soundcore,1,1,4,3,3,3,5,Price/value
+437,40,Male,6100000,JBL,1,0,3,2,3,4,3,Feature mismatch
+438,19,Male,18400000,JBL,1,1,3,5,4,4,5,Feature mismatch
+439,18,Male,7700000,Other,1,1,5,4,4,3,5,Brand preference
+440,29,Male,5600000,Samsung,1,1,4,4,4,3,5,Availability/convenience
+441,32,Female,4700000,Apple,1,1,3,4,3,3,2,Price/value
+442,29,Male,5800000,Samsung,0,0,4,2,3,3,5,Unaware of Sony TWS
+443,18,Male,5400000,Anker/Soundcore,0,0,2,4,3,4,3,Unaware of Sony TWS
+444,28,Female,7800000,Apple,0,0,3,3,3,3,3,Unaware of Sony TWS
+445,20,Female,7800000,JBL,0,0,5,4,3,4,4,Unaware of Sony TWS
+446,34,Female,7000000,Other,0,0,3,1,3,5,1,Unaware of Sony TWS
+447,32,Female,9300000,Anker/Soundcore,1,1,2,3,2,4,3,Availability/convenience
+448,22,Male,15200000,JBL,1,0,3,3,3,3,1,Brand preference
+449,25,Male,13000000,Apple,1,0,2,4,2,2,5,Brand preference
+450,22,Female,2700000,Anker/Soundcore,0,0,2,4,2,1,1,Unaware of Sony TWS
+451,29,Female,2000000,JBL,1,0,3,3,3,4,2,Brand preference
+452,36,Male,12800000,Apple,1,0,2,3,3,3,2,Feature mismatch
+453,22,Female,2900000,Apple,0,0,3,3,4,3,5,Unaware of Sony TWS
+454,33,Male,6000000,Other,1,1,4,3,3,3,4,Price/value
+455,25,Male,3300000,JBL,0,1,2,4,3,3,2,Unaware of Sony TWS
+456,23,Female,2200000,Anker/Soundcore,0,0,4,3,4,4,5,Unaware of Sony TWS
+457,28,Female,10000000,Other,1,1,3,1,4,3,5,Brand preference
+458,22,Female,11500000,JBL,0,0,4,3,2,2,3,Unaware of Sony TWS
+459,25,Male,4800000,Xiaomi/Redmi,0,0,2,2,3,4,3,Unaware of Sony TWS
+460,21,Female,2000000,Xiaomi/Redmi,1,0,4,2,4,3,5,Feature mismatch
+461,43,Male,4900000,Xiaomi/Redmi,1,0,2,2,3,4,5,Brand preference
+462,29,Male,9000000,Xiaomi/Redmi,0,0,4,3,1,3,1,Unaware of Sony TWS
+463,24,Female,2700000,Anker/Soundcore,0,0,3,4,3,2,5,Unaware of Sony TWS
+464,30,Female,7900000,JBL,0,0,3,4,5,3,5,Unaware of Sony TWS
+465,28,Female,6900000,Other,1,0,2,3,3,3,4,Feature mismatch
+466,27,Female,10200000,Xiaomi/Redmi,0,0,2,4,2,3,1,Unaware of Sony TWS
+467,33,Female,7600000,JBL,0,0,4,3,3,3,3,Unaware of Sony TWS
+468,34,Female,3700000,JBL,1,0,2,3,3,1,1,No need/low urgency
+469,25,Male,15200000,JBL,0,0,4,2,4,3,4,Unaware of Sony TWS
+470,25,Male,6300000,JBL,0,0,2,2,2,4,3,Unaware of Sony TWS
+471,27,Male,6900000,Samsung,0,1,4,3,4,3,2,Unaware of Sony TWS
+472,18,Male,3800000,Xiaomi/Redmi,1,0,2,4,4,3,4,Brand preference
+473,18,Female,5200000,Apple,0,0,3,3,3,4,5,Unaware of Sony TWS
+474,39,Male,3900000,Xiaomi/Redmi,0,0,3,3,3,2,2,Unaware of Sony TWS
+475,41,Male,6300000,Xiaomi/Redmi,1,0,2,3,4,2,4,Price/value
+476,27,Male,21300000,JBL,0,0,4,4,4,3,4,Unaware of Sony TWS
+477,33,Female,2900000,Other,1,0,3,2,2,3,2,Feature mismatch
+478,31,Male,2500000,JBL,0,1,3,4,4,2,4,Unaware of Sony TWS
+479,45,Female,18200000,Anker/Soundcore,0,0,2,2,3,3,1,Unaware of Sony TWS
+480,37,Male,6100000,Xiaomi/Redmi,0,0,1,3,3,3,1,Unaware of Sony TWS
+481,28,Male,4500000,JBL,0,1,3,2,3,3,4,Unaware of Sony TWS
+482,22,Female,13800000,Apple,0,0,2,3,3,3,2,Unaware of Sony TWS
+483,18,Female,4700000,Samsung,0,0,3,4,4,5,4,Unaware of Sony TWS
+484,30,Male,22900000,Xiaomi/Redmi,1,0,3,4,3,3,3,Availability/convenience
+485,24,Female,10900000,Xiaomi/Redmi,1,1,4,4,2,3,4,Availability/convenience
+486,19,Female,5100000,Apple,1,1,3,4,3,3,5,Feature mismatch
+487,24,Male,28500000,Samsung,1,0,3,3,3,2,2,No need/low urgency
+488,21,Female,4700000,Samsung,0,0,4,3,4,2,1,Unaware of Sony TWS
+489,41,Female,11300000,Other,1,0,3,3,4,3,5,Price/value
+490,35,Female,8500000,Xiaomi/Redmi,0,1,3,4,2,3,3,Unaware of Sony TWS
+491,29,Female,16300000,Xiaomi/Redmi,1,1,3,3,5,5,5,Feature mismatch
+492,39,Female,19300000,Samsung,1,0,2,4,3,2,5,No need/low urgency
+493,30,Female,7100000,JBL,1,1,4,4,5,3,5,No need/low urgency
+494,23,Female,4300000,Xiaomi/Redmi,1,0,3,5,3,3,4,Brand preference
+495,40,Female,9400000,Samsung,1,0,2,3,4,4,2,Availability/convenience
+496,33,Female,4500000,Xiaomi/Redmi,0,1,3,4,4,3,4,Unaware of Sony TWS
+497,22,Female,25900000,Apple,0,0,3,5,4,4,5,Unaware of Sony TWS
+498,28,Female,7600000,Apple,1,0,3,3,4,1,1,Price/value
+499,23,Male,5500000,Samsung,0,0,3,2,4,1,2,Unaware of Sony TWS
+500,19,Female,7900000,Apple,1,1,4,2,3,3,4,Availability/convenience
